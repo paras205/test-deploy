@@ -1,4 +1,5 @@
 pipeline {
+
      environment {
             CI = 'true'
         }
